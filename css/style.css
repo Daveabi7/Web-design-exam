@@ -59,7 +59,7 @@ body {
 
 .logo {
     background-color: #c94c4c;
-    color: white;
+    color: #81D0E8;
     padding: 20px 80px;
     border-radius: 30px;
     box-shadow: 0 0 5px #888;
@@ -68,6 +68,7 @@ body {
     border: 5px solid #22BB31;
     margin-top: 10px;
     margin-bottom: 10px;
+    font-weight: bold;
 }
 
 .inter {
